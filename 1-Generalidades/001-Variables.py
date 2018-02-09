@@ -4,7 +4,7 @@
 #
 # Curso:       Algoritmos y Estructuras de Datos
 # Tema:        Variables
-# Contenido:   Declaración correcta e incorrecta devariables
+# Contenido:   Declaración correcta e incorrecta de variables
 #
 # Autor:       Ing. Víctor Darío Sosa Jáuregui
 #
