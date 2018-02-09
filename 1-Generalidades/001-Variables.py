@@ -2,7 +2,7 @@
 #                         Universidad Global del Cusco
 #           Ingeniería en Tecnologías de Información y Comunicación
 #
-# Curso:       Algoritmos y Estructuras de Datos
+# Curso:       Algoritmos y Estructuras de Datos I
 # Tema:        Variables
 # Contenido:   Declaración correcta e incorrecta de variables
 #
