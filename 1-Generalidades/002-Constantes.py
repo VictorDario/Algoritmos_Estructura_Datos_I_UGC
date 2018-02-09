@@ -2,7 +2,7 @@
 #                         Universidad Global del Cusco
 #           Ingeniería en Tecnologías de Información y Comunicación
 #
-# Curso:       Algoritmos y Estructuras de Datos
+# Curso:       Algoritmos y Estructuras de Datos I
 # Tema:        Constantes
 # Contenido:   Declaracion de constantes
 #              Existe un tipo de “variable”, denominada constante, la cual se
